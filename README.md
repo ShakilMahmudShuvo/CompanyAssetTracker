@@ -18,7 +18,7 @@ The Corporate Asset Tracker includes an API that enables programmatic interactio
 
 Follow these steps to set up and run the project:
 
-1. Clone the project repository from :
+1. Clone the project repository from `https://github.com/phreak1703007/CompanyAssetTracker.git`
 
 2. Create a virtual environment:
 
