@@ -12,7 +12,7 @@ This is a simple application that helps companies track and manage their corpora
 - **Device Log Tracking:** The software plays a vital role in asset management by enabling thorough tracking of asset movements within the organization. This functionality encompasses monitoring checkout and return times, asset quantities, conditions, and the staff members involved. This comprehensive approach enhances asset management, accountability, and historical record-keeping, providing a streamlined process for asset utilization and tracking.
 
 # Automated API Documentation 
-The Corporate Asset Tracker includes an API that enables programmatic interaction with the application. You can access the API documentation at [[http://localhost:8000/swagger/]([http://127.0.0.1:8000/api/v1/swagger/](http://127.0.0.1:8000/api/v1/swagger/))](http://localhost:8000/swagger/).
+The Corporate Asset Tracker includes an API that enables programmatic interaction with the application. You can access the API documentation at ([http://127.0.0.1:8000/api/v1/swagger/](http://127.0.0.1:8000/api/v1/swagger/))].
 
 # How to Use
 
